@@ -5,6 +5,11 @@ SOC Fundamentals course completed on LetsDefend | Notes, skills, and my journey 
 
 I recently completed the SOC Fundamentals course on LetsDefend and earned the **SOC Member** badge.
 
+##  Certification Badge
+
+ **SOC Member Badge:**  
+[Click here to view](https://app.letsdefend.io/my-rewards/detail/79efb3bb-d098-4a9e-a639-bc863a214228)
+
 ##  Completion Date
 March 18, 2026
 
